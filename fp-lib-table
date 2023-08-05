@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "reversible-kicad")(type "KiCad")(uri "${KIPRJMOD}/reversible-kicad.pretty")(options "")(descr ""))
+  (lib (name "WaveSymbols")(type "KiCad")(uri "${KIPRJMOD}/WaveSymbols.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/keyswitches.pretty/Library.pretty")(options "")(descr ""))
+)
